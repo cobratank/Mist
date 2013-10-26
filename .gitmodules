@@ -3,7 +3,7 @@
 	url = git://github.com/cobratank/SteamKit2.git
 [submodule "Lib/Newtonsoft.Json"]
 	path = Lib/Newtonsoft.Json
-	url = git://github.com/Jessecar96/Newtonsoft.Json.git
+	url = git://github.com/JamesNK/Newtonsoft.Json.git
 [submodule "Lib/protobuf-net"]
 	path = Lib/protobuf-net
 	url = git://github.com/Jessecar96/protobuf-net.git
